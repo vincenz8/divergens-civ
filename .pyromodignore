@@ -1,6 +1,7 @@
 # things not to include while making a pyromod
 /.git
 /.vscode
+/.oldfiles
 
 # No blood mod
 /art/actors/props/units/blood_01.xml
