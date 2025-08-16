@@ -1,7 +1,7 @@
-# AutoCiv
-This mod is an aggregation of features meant to enhance the 0 A.D. game experience. I usually implement these extra features as they come up with no general plan in mind.
+# DivergensCiv
+A mod based on autociv that presents a few changes in both customization and functionality. On the following versions I plan to fix some known problems in autociv and implement new things that I find useful for the game.
 
-## Feature list
+## Current Feature list (same as autociv)
 - General
 	- Readme: press Shift + F4 to open
 	- Player mute
@@ -47,6 +47,10 @@ This mod is an aggregation of features meant to enhance the 0 A.D. game experien
 - Settings
 	- Max corpses visible
 
+## Known autociv issues that I plan to fix
+- 'autociv' function works also for non-host users, which means a player can visually change their civ by typing it on the chat without actually changing it if the host doesn't have autociv. This problem causes a lot of confusion, as players might not notice this and start the game with the wrong civ.
+
+
 ## Download
 There are three ways:
 - Download and install from the wildfiregames forum autociv page topic (files on first page)
@@ -72,7 +76,7 @@ There are three ways:
 
 ## Mod compatibility(s)
 The mod is compatible with:
-- 0 A.D 0.0.26
+- 0 A.D 0.0.27
 - Probable to work with the following mods
 	- boonGUI mod
 	- star mod
@@ -81,11 +85,3 @@ The mod is compatible with:
 	- spec mod (monitor) mod
 	- custom_rating mod
 - Should work with all mods that don't have extensive code changes
-
-
-## More stuff & goodies
-For more info just read the whole thread where I post new features.
-https://wildfiregames.com/forum/topic/28753-autociv-mod-0ad-enhancer/
-
-## Questions & feedback
-You don't understand how it works? Feeling confused? Just wanna comment? Ask and post.

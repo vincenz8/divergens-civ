@@ -1,7 +1,7 @@
 {
   "name": "DivergensCiv",
   "version": "1.0",
-  "label": "That better and customized version of certain 0 A.D. mod. Author: vincenz8.",
+  "label": "An alternative version of the 0 A.D. mod autociv created by nani.",
   "description": "Features: chat civ picker, building placement hotkeys, building selection hotkeys, local mute, chat link opener, etc. Compatible with vanilla.",
   "ignoreInCompatibilityChecks": true,
   "dependencies": ["0ad=0.27.0"],
